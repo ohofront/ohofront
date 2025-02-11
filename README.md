@@ -27,7 +27,7 @@ Front developer😎
   
 <!--평가 -->
 ## My Github Stats 
-[![ohoCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohoCoding)](https://github.com/ohoCoding/github-readme-stats)
+[![ohofront's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohofront)](https://github.com/ohofront/github-readme-stats)
 
  
  </a>
