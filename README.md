@@ -4,7 +4,7 @@
 <!--소개-->
 
 ## Introduction
-Front developer😎
+Frontend developer😎
 <br/><br/>
 
  <!--기술스택-->
