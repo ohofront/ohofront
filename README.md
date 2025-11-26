@@ -27,7 +27,7 @@ Frontend developer😎
 <!--평가 -->
 ## My Github Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohofront&hide=stars&theme=dracula&hide_border=true&show_icons=true)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh.cho&hide=stars&theme=dracula&hide_border=true&show_icons=true)]()
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngho7482)](https://solved.ac/profile/jennyeunjin)
 
  
